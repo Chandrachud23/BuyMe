@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# BuyMe
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+An E-commerce platform for the trendiest collection for the urban youth!
 
 ## Available Scripts
 
